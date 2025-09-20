@@ -6,7 +6,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-FC6C0C?style=for-the-badge&logo=apache&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-339933?style=for-the-badge&logo=caddy&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-0076D6?style=for-the-badge&logo=traefik&logoColor=white)
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
